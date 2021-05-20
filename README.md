@@ -1,4 +1,4 @@
-# ESputnik API для Yii2
+# eSputnik API для Yii2
 
 API: https://esputnik.com/api/
 
